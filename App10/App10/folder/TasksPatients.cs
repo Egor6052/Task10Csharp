@@ -69,7 +69,7 @@ namespace App9
             }
             else
             {
-                const int threadCount = 2;
+                const int threadCount = 4;
                 Task[] tasks = new Task[threadCount];
                 QueuePatients units = SplitQueue(patients, threadCount);
 

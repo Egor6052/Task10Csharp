@@ -82,7 +82,7 @@ namespace App9
             // Lab 10 ----------------------------------
             string jsonPath = "patientsQueue.json";
             QueuePatients  patients = new QueuePatients();
-            TasksPatients.PartsQueue(patients, jsonPath, 9999999, 2);
+            TasksPatients.PartsQueue(patients, jsonPath, 9999999, 4); // 4 потока по заданию;
 
             Console.WriteLine("Выполнение сортировки по дате регистрации\n");
             TasksPatients.ParallelSort(patients, comparison);
