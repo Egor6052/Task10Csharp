@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{74BF02B2-9480-4FAA-B781-83EA50269784}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App9/Program.cs">
+    <Files>
+      <File FileName="App9/Program.cs" Line="9" Column="49" />
+      <File FileName="App9/DataSerializer.cs" Line="2" Column="24" />
+      <File FileName="App9/Patient.cs" Line="86" Column="18" />
+      <File FileName="App9/QueuePatients.cs" Line="8" Column="26" />
+      <File FileName="App9/README.md" Line="8" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="App9" expanded="True">
+            <Node name="App9" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.App9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
