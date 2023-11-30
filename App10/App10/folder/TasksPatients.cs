@@ -36,7 +36,7 @@ namespace App9
 
 
         /// <summary>
-        /// Процес генерації та береження елементів у список
+        /// Генерация и сохранение элементов в очередь;
         /// </summary>
         private static Task PutPartsInStorage(QueuePatients patients, int rate)
         {
